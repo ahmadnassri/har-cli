@@ -1,4 +1,4 @@
-# HAR CLI [![version][npm-version]][npm-url] [![License][npm-license]][license-url]
+# HAR CLI [![version][npm-version]][npm-url] [![License][license-image]][license-url]
 
 > HAR command line tools
 
@@ -47,12 +47,12 @@ Options:
 > Twitter: [@ahmadnassri](https://twitter.com/ahmadnassri)
 
 [license-url]: http://choosealicense.com/licenses/isc/
+[license-image]: https://img.shields.io/github/license/ahmadnassri/har-cli.svg?style=flat-square
 
 [travis-url]: https://travis-ci.org/ahmadnassri/har-cli
 [travis-image]: https://img.shields.io/travis/ahmadnassri/har-cli.svg?style=flat-square
 
 [npm-url]: https://www.npmjs.com/package/har-cli
-[npm-license]: https://img.shields.io/npm/l/har-cli.svg?style=flat-square
 [npm-version]: https://img.shields.io/npm/v/har-cli.svg?style=flat-square
 [npm-downloads]: https://img.shields.io/npm/dm/har-cli.svg?style=flat-square
 
