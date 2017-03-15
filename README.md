@@ -12,7 +12,7 @@
 ## Install
 
 ```bash
-npm install --only=production --save har-cli
+npm install --only=production --save @har/cli
 ```
 
 ## Usage
@@ -52,9 +52,9 @@ Options:
 [travis-url]: https://travis-ci.org/ahmadnassri/har-cli
 [travis-image]: https://img.shields.io/travis/ahmadnassri/har-cli.svg?style=flat-square
 
-[npm-url]: https://www.npmjs.com/package/har-cli
-[npm-version]: https://img.shields.io/npm/v/har-cli.svg?style=flat-square
-[npm-downloads]: https://img.shields.io/npm/dm/har-cli.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@har/cli
+[npm-version]: https://img.shields.io/npm/v/@har/cli.svg?style=flat-square
+[npm-downloads]: https://img.shields.io/npm/dm/@har/cli.svg?style=flat-square
 
 [codeclimate-url]: https://codeclimate.com/github/ahmadnassri/har-cli
 [codeclimate-quality]: https://img.shields.io/codeclimate/github/ahmadnassri/har-cli.svg?style=flat-square
