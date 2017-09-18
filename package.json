@@ -49,6 +49,6 @@
     "chalk": "^1.1.3",
     "har-validator": "^5.0.2",
     "smart-promise": "^1.1.0",
-    "yargs": "^7.0.2"
+    "yargs": "^9.0.1"
   }
 }
